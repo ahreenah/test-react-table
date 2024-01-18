@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-react-table/static/css/main.d0ad32db.css",
+    "main.js": "/test-react-table/static/js/main.fce26f4c.js",
+    "index.html": "/test-react-table/index.html",
+    "main.d0ad32db.css.map": "/test-react-table/static/css/main.d0ad32db.css.map",
+    "main.fce26f4c.js.map": "/test-react-table/static/js/main.fce26f4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ad32db.css",
+    "static/js/main.fce26f4c.js"
+  ]
+}
